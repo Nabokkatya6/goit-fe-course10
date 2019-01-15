@@ -1,0 +1,23 @@
+@media (min-resolution:192dpi),
+(min-resolution: 2dppx) {
+  background-image: url("/img/banner@2x.jpg");
+}
+.features__icon--clock::before {
+    background-image: url("../img/social/1@2x.png");
+}
+.features__icon--zigzag::before {
+    background-image: url("../img/social/2@2x.png");
+}
+.features__icon--mark::before {
+    background-image: url("../img/social/3@2x.png");
+}
+.features__icon--book::before {
+    background-image: url("../img/social/4@2x.png");
+}
+.features__icon--house::before {
+    background-image: url("../img/social/5@2x.png");
+}
+.features__icon--square::before {
+    background-image: url("../img/social/6@2x.png");
+}
+}
